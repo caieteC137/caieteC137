@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=200&amp;section=header&amp;text=Caio%20Ribeiro&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Estudante%20de%20Software%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=200&amp;section=header&amp;text=Caio%20Ribeiro&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Estudante%20de%20Software%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o&amp;descAlignY=55&amp;descSize=18" width="95%"/>
 
 <a href="https://github.com/caieteC137">
 
