@@ -3,7 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:06b6d4&amp;height=200&amp;section=header&amp;text=Caio%20Ribeiro&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Estudante%20de%20Software%20%7C%20IA%20%26%20Automa%C3%A7%C3%A3o&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/caieteC137">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Estagi%C3%A1rio+em+Engenharia+de+IA;Construindo+IoT+%2B+IA+que+resolvem+problemas+reais;Python+%7C+ML+%7C+Cloud+%7C+Embedded;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Estagi%C3%A1rio+em+Engenharia+de+IA;Construindo+IoT+%2B+IA+que+resolvem+problemas+reais;Python+%7C+ML+%7C+Cloud+%7C+Embedded;Sempre+aprendendo+algo+novo+%F0%9F%9A%80"
+alt="Typing SVG"
+/>
+
 </a>
 
 </div>
