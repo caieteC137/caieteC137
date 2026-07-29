@@ -130,25 +130,7 @@ Building intelligent systems and turning AI prototypes into production-ready sol
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/caieteC137/caieteC137/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/caieteC137/caieteC137/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/caieteC137/caieteC137/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
-
-</div>
+<p align="center"> <img src="https://raw.githubusercontent.com/caieteC137/caieteC137/output/github-contribution-grid-snake.svg" width="100%"/> </p>
 
 ---
 
